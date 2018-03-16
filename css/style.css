@@ -432,7 +432,7 @@ tr > td:nth-child(2) {
 .navigation-background {
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
-    background: #4c9cef;
+    background: #333;
 }
 
 .navigation-background .logo {
