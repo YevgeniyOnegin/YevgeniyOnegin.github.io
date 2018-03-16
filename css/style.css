@@ -408,7 +408,7 @@ tr > td:nth-child(2) {
     -webkit-transition: .3s;
     transition: .3s;
     font-weight: 600;
-    margin: 25px 15px;
+    margin: 28px 15px;
 }
 
 .navigation-menu .navbar-nav li a:hover {
