@@ -404,16 +404,17 @@ tr > td:nth-child(2) {
     text-transform: uppercase;
     font-size: 12px;
     letter-spacing: 1px;
-    padding: 30px 15px;
+    padding: 5px 0px;
     -webkit-transition: .3s;
     transition: .3s;
     font-weight: 600;
+    margin-bottom: 25px 15px;
 }
 
 .navigation-menu .navbar-nav li a:hover {
     background: none;
     color: #f7639a;
-    border-bottom: 1px solid #f7639a;
+    border-bottom: 3px solid #f7639a;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
@@ -455,7 +456,7 @@ tr > td:nth-child(2) {
 
 .navigation-background .navigation-menu .navbar-nav li a:hover {
     color: #f7639a;
-    border-bottom: 1px solid #f7639a;
+    border-bottom: 3px solid #f7639a;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
