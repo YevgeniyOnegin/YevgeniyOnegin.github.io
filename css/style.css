@@ -395,7 +395,7 @@ tr > td:nth-child(2) {
     letter-spacing: 6px;
     font-weight: 600;
     font-size: 14px;
-	border-bottom: 4px solid #f7639a;
+		border-bottom: 4px solid #f7639a;
     /*width: 92px;*/
 }
 
@@ -408,7 +408,7 @@ tr > td:nth-child(2) {
     -webkit-transition: .3s;
     transition: .3s;
     font-weight: 600;
-    margin-bottom: 25px 15px;
+    margin: 25px 15px;
 }
 
 .navigation-menu .navbar-nav li a:hover {
