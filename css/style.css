@@ -415,6 +415,7 @@ tr > td:nth-child(2) {
     background: none;
     color: #f7639a;
     border-bottom: 3px solid #f7639a;
+    margin: 25px 15px;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
@@ -449,7 +450,7 @@ tr > td:nth-child(2) {
 
 .navigation-background .navigation-menu .navbar-nav li a {
     color: #fff;
-    padding: 20px 15px;
+    /*padding: 20px 15px;*/
     -webkit-transition: .3s;
     transition: .3s;
 }
