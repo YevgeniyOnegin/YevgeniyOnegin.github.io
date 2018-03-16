@@ -413,7 +413,7 @@ tr > td:nth-child(2) {
 .navigation-menu .navbar-nav li a:hover {
     background: none;
     color: #f7639a;
-    text-decoration: underline;
+    border-bottom: 1px solid #f7639a;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
@@ -455,7 +455,7 @@ tr > td:nth-child(2) {
 
 .navigation-background .navigation-menu .navbar-nav li a:hover {
     color: #f7639a;
-    text-decoration: underline;
+    border-bottom: 1px solid #f7639a;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
